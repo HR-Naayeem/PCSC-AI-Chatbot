@@ -90,6 +90,20 @@ AI Response Returned to Frontend
 - Added IP-based rate limiting and server-side validation to control abuse and API cost
 - Maintained custom branding while embedding the AI chat interface
 
+## Project Structure
+
+```text
+PCSC-AI-Chatbot/
+├── plugin/
+│   ├── pcsc-tech-support-advisor.php
+│   └── assets/
+│       ├── chatkit-widget.css
+│       |── chatkit-widget.js
+        └── pcsc-logo.png
+├── screenshots/
+└── .gitignore
+└── README.md
+```
 
 ## Setup
 To run this project in a real WordPress environment, you would need:
