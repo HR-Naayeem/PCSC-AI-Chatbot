@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
+config.local.php
+
+# WordPress / temp
+wp-config-local.php
